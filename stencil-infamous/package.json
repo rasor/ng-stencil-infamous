@@ -17,7 +17,9 @@
     "test": "jest --no-cache",
     "test.watch": "jest --watch --no-cache"
   },
-  "dependencies": {},
+  "dependencies": {
+    "infamous": "^18.0.11"
+  },
   "devDependencies": {
     "@stencil/core": "0.8.2",
     "@stencil/dev-server": "latest",
