@@ -1,1 +1,13 @@
+#content { 
+    border: 1px solid black;
+    width: 100%; height: 200px;
+    background-color: #333;
+}
 
+i-scene { 
+    width: 100%; height: 100%;
+}
+
+i-node { 
+    background-color: pink; 
+}
